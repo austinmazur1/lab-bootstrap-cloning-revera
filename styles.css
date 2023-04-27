@@ -1,0 +1,27 @@
+#navbar {
+    height: 8rem;
+}
+
+#carousel {
+    height: 40rem;
+    background-color: #3b3b3b;
+}
+
+#columns {
+    height: 25rem;
+    background-color: rgb(237, 86, 75);
+}
+
+#main-body {
+    height: 90rem;
+}
+
+#footer {
+    height: 29rem;
+    background-color: #3b3b3b;
+}
+
+#copyright {
+    height: 7rem;
+    background-color: #292929;
+}
